@@ -1,3 +1,4 @@
 # TODO DOCKERFILE LIST
-- [X] Install Python
-- [X] pip install django
+- [ ] Install Python
+- [ ] pip install django
+- [ ] cd BlogApp > django manage.py runserver
